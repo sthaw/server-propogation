@@ -1,5 +1,5 @@
 # Proxy Herd Application
-Application server herd "prototype" for [UCLA CS 131 (Programming Languages) course](http://web.cs.ucla.edu/classes/fall17/cs131/hw/pr.html)
+Application server herd "prototype" for [UCLA CS 131 (Programming Languages)](http://web.cs.ucla.edu/classes/fall17/cs131/hw/pr.html) course
 
 ## Instructions
 To run *all servers* at once you can simply run:
